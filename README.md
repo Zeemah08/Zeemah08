@@ -1,4 +1,4 @@
-# Hi, I'm Nureni Omowumi] 👋
+# Hi, I'm Nureni Omowumi 👋
 
 ### 🚀 About Me
 I am a Computer Science student currently focused on Data Analysis. I am passionate about the "dirty" side of data—cleaning, structuring, and preparing datasets for meaningful insights. I enjoy turning messy, raw data into clear, actionable insights. I focus on building practical solutions that ensure data is accurate and ready for high-level analysis.
@@ -9,14 +9,16 @@ I am a Computer Science student currently focused on Data Analysis. I am passion
 - ⚡ **Fact:** I believe 80% of a great insight comes from 100% clean data.
 
 
+
 ### 🛠️ Tech Stack
 - **Languages:** SQL, Python
 - **Tools:** Excel, GitHub
 - **Specialties:** Data Cleaning, Technical Reporting
 
 
+
 ### 📂 Featured Projects
-- [Data Cleaning: World Layoffs (2020-2023)]([https://github.com/Zeemah08/world-layoffs-cleaning]) - *SQL-based pipeline for data standardization and integrity.*
+- [Data Cleaning: World Layoffs (2020-2023)](https://github.com/Zeemah08/world-layoffs-cleaning) - *SQL-based pipeline for data standardization and integrity.*
 
 ---
 📫 **How to reach me:** [nureniomowumi8@gmail.com]
