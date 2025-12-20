@@ -21,4 +21,6 @@ I am a Computer Science student currently focused on Data Analysis. I am passion
 - [Data Cleaning: World Layoffs (2020-2023)](https://github.com/Zeemah08/world-layoffs-cleaning) - *SQL-based pipeline for data standardization and integrity.*
 
 ---
-📫 **How to reach me:** [nureniomowumi8@gmail.com]
+### 📫 Contact Details:
+- 📧 **Email:** [nureniomowumi8@gmail.com](mailto:nureniomowumi8@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/omowumi-nureni](www.linkedin.com/in/omowumi-nureni)
