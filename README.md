@@ -19,6 +19,7 @@ I am a Computer Science student currently focused on Data Analysis. I am passion
 
 ### 📂 Featured Projects
 - [Data Cleaning: World Layoffs (2020-2023)](https://github.com/Zeemah08/world-layoffs-cleaning) - *SQL-based pipeline for data standardization and integrity.*
+- [Data Cleaning and Analysis: superstore_sales (2009-2012)](https://github.com/Zeemah08/superstore_sales) - Dynamic dashboard for auditing nationwide profitability across 8 Canadian regions and identifying high-risk product categories
 
 ---
 ### 📫 Contact Details:
