@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nureni Omowumi 
 
 ### 🚀 About Me
-I am a Computer Science student currently focused on Data Analysis. I am passionate about the "dirty" side of data; cleaning, structuring, and preparing datasets for meaningful insights. I enjoy turning messy, raw data into clear, actionable insights. I focus on building practical solutions that ensure data is accurate and ready for high-level analysis.
+I am a Computer Science student currently focused on Data Science. I am passionate about the "dirty" side of data; cleaning, structuring, and preparing datasets for meaningful insights. I enjoy turning messy, raw data into clear, actionable insights. I focus on building practical solutions that ensure data is accurate and ready for high-level analysis.
 
 - 🛠️ **Current Focus:** Improving my SQL optimization and Python data cleaning skills.
 - 🎓 **Education:** University student currently undergoing industrial training.
